@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: http://ftp.pierre-couy.fr/hiden/sitemap.xml
